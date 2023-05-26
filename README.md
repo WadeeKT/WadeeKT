@@ -84,7 +84,6 @@ Hi, I'm Thomas "WadeeKT" Sanna !
 <br/>
 <p align="center">
 	<a href="https://github.com/WadeeKT">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wadeekt&show_icons=true" alt="wadeekt">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wadeekt" alt="wadeekt">
 	</a>
 	<br/>
