@@ -44,7 +44,7 @@ Hi, I'm Thomas "WadeeKT" Sanna !
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Front-End Development
+### 🎨 Front-End Development
 
 <p>
     <a href="https://github.com/WadeeKT"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -131,4 +131,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/wadeekt/be-yo
 [wadeekt](https://github.com/wadeekt) <br>
 (thanks to [bouaskaoun](https://github.com/bouaskaoun) to help me doing this overview !)
 
-Last edit : 2023-05-25
+Last edit : 2023-05-26
