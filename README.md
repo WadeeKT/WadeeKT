@@ -92,16 +92,7 @@ Hi, I'm Thomas "WadeeKT" Sanna !
 
 
 <summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/wadeekt">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeekt&langs_count=8&layout=compact" alt="wadeekt">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 <br/>
 
 <table style="border: none">
