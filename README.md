@@ -103,7 +103,7 @@ Hi, I'm Thomas "WadeeKT" Sanna !
 
 If you have any questions about front-end web development, feel free to <a href="mailto:thomassanna@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/wadeekt/be-your-front-end-web-developer-using-html-css-javascript">Fiverr</a> or <a href="https://www.linkedin.com/in/thomas-sanna-b74600277/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/wadeekt/be-your-front-end-web-developer-using-html-css-javascript">Fiverr</a> or <a href="https://www.linkedin.com/in/thomas-sanna-b74600277/">LinkedIn</a> to make your web project real.
 
   </td>
   <td width="50%" valign="top">
@@ -121,4 +121,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/wadeekt/be-yo
 [wadeekt](https://github.com/wadeekt) <br>
 (thanks to [bouaskaoun](https://github.com/bouaskaoun) to help me doing this overview !)
 
-Last edit : 2023-05-26
+Last edit : 2023-06-03
