@@ -15,12 +15,10 @@ Hi, I'm WadeeKT !
 
 <pre>
 💻 I am a self taught Full Stack Developer and an Algorithm Developer
-📚 I have a bachelor's degree in Mathematics and Engineering Sciences. 🚩 Currently in Bachelor of Computer Engineering at the University of Corsica 'Pasquale Paoli' in France.
 📝 I have a strong interest in Web Development and Newest technologies
 🔭 Working as Full-Stack Freelance Developer.
 🌱 Currently learning about Vue, Angular, Redux and MongoDB.
 🌟 Main language: Javascript.
-🤔 I’m currently open for: <b>A two months full time</b> or a new <b>job opportunity</b>.
 </pre>
 <hr>
 
